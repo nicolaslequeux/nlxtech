@@ -197,7 +197,7 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "content1",
