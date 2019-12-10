@@ -820,8 +820,26 @@ section.lazy-placeholder:after {
 .cid-rEiC2z4Ob7 .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rKgQKShPm6 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rKgQKShPm6 .mbr-text {
+  color: #767676;
+}
+.cid-rKgQKShPm6 h4 {
+  text-align: center;
+}
+.cid-rKgQKShPm6 p {
+  text-align: center;
+}
+.cid-rKgQKShPm6 .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
 .cid-rE21BvKXcE {
-  padding-top: 75px;
+  padding-top: 0px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
