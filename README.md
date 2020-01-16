@@ -1,15 +1,12 @@
-# nlxtech
+## NLX Technologies
 <https://nlxtech.com>
 
 Consulting in Algorithmic Trading
 
-Repository deployed with GitHub Pages from master branch
+This website has been designed with Mobirise + hosting on GitHub Pages
 
-git push origin master == deployed!
+nlxt notes :
 
-HTTPS Enforced
-
-Memo:\
-CNAME map a domain name to another domain name rather than an IP. It is more reliable and easier to manage than APEX (naked domain)
-
-nlxtech.com is managed by Office 365
+* nlxtech.com DNS is managed by Office 365
+* git push origin master == deployed on with HTTPS Enforced
+* Added (style="text-align:justify") to text of introduction
