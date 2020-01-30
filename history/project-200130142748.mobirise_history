@@ -65,7 +65,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "file:///Users/nlx/code/nlxtech"
+    "publishPath": "file:///Users/nlx/Documents"
   },
   "pages": {
     "index.html": {
